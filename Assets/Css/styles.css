@@ -214,3 +214,16 @@ nav{
 .more-info span{
     color: #EC4067;
 }
+
+/* Footer*/
+footer{
+    height: 100px;
+    background-color: rgba(104, 99, 99, 0.4);
+    
+}
+footer p{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 20px;
+    margin-top: 20px;
+}
