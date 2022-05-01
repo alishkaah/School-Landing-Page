@@ -28,22 +28,32 @@ As a user of the application,you will be able to :
 | Enter your message or comment   |  I would like to inquire about something     |     |
 | Press Submit|     |Pop up "Alinoor shukri , we have received your message. Thank you for reaching out to us.|
 [Go Back to the top](#landing page)
+
+
  ###  Requirements
  * Access to  a computer or any other garget
  * Access to internet
+
+
  ### Installation Process
  ****
 * Clone to thir repo : git clone https://github.com/alishkaah/School-Landing-Page.git
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
+ 
+ 
  [Go Back to the top](#landing-page)
 ### Live Link
 - Click this link to view the live application #link here
+
+
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
 [Go Back to the top](#landing-page)
+
+
 ## Licence
 MIT License
 Copyright (c) [2022] [Alinoor Shukri]
@@ -63,6 +73,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [Go Back to the top](#landing-page)
+
+
 ## Authors Info
 Linked - [Alinoor Shukri](linkedin.com/in/alinoor-shukri)
  
