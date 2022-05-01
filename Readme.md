@@ -18,6 +18,8 @@
 As a user of the application,you will be able to :
  - Navigate from one section to another
  - See stories and memories of the students
+
+
 ## Behaviour Driven Development|
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
