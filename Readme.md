@@ -1,7 +1,7 @@
 # 
  ## By Alinoor Shukri
 ## Screenshot
- ![image](./assets/delanii.png)
+ ![image](./Assets/images/screenshot2.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
