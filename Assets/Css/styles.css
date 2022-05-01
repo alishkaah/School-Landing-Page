@@ -102,7 +102,7 @@ nav{
 
 .orientation{
     display: flex;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 50px;
     justify-content: space-between;
     
@@ -137,5 +137,5 @@ nav{
 }
 .orientation .left-side img{
     height: auto;
-    width: 600px;
 }
+/* Technical mentors section*/
