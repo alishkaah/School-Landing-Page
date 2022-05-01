@@ -60,7 +60,7 @@ nav{
        height: auto;
    }
    
-   .left-side .title{
+   .left-side .section-title{
        font-weight: 200;
        margin: 20px;
        font-size: 28px;
@@ -69,7 +69,7 @@ nav{
        margin: 20px;
        font-size: 28px;
    }
-   .left-side .about{
+   .left-side .section-about{
        color: #EC4067;
        margin: 20px;
    }
