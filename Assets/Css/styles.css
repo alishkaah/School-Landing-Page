@@ -186,3 +186,31 @@ nav{
     margin: 10px;
 
 }
+/* More info section */
+.info-section{
+    margin-left: 50px;
+}
+.more-info{
+    margin-left: 20px;
+}
+.more-info h2{
+    color: #EC4067;
+    font-size: 28px;
+    margin: 20px;
+}
+
+.more-info p{
+    font-size: 18px;
+    margin-left: 20px;
+}
+.more-info button{
+    background-color: #EC4067;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+}
+.more-info span{
+    color: #EC4067;
+}
